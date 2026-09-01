@@ -200,3 +200,7 @@ on ~80 sources about decision-making methods.
 
 MIT — vendored renderers ([marked](https://github.com/markedjs/marked),
 [DOMPurify](https://github.com/cure53/DOMPurify)) keep their original headers.
+
+---
+
+Built by [Tigerless Labs](https://github.com/tigerless-labs), the AI lab of [Tigerless](https://www.tigerless.com) — also home to [tigerless.ai](https://tigerless.ai).
